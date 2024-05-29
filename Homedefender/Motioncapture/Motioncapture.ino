@@ -1,3 +1,8 @@
+// Port 11 --> YServo
+// Port 10 --> Xservo
+// Netzteil Braun = +, Blau = GND
+// Servo Rot -> +, Braun = GND, Gelb = Data
+
 #include <Servo.h>
 
 String serData;
